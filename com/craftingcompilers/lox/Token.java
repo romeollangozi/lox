@@ -1,4 +1,6 @@
-package Lox;
+package  com.craftingcompilers;
+
+
 class Token {
     final TokenType type;
     final String lexeme;
